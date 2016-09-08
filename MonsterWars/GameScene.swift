@@ -14,7 +14,7 @@ func randomFunction() -> (Team,SKAction) -> (){
     return (randomFunc)
     
 }
-// commit
+// comm
 
 import SpriteKit
 import GameplayKit
